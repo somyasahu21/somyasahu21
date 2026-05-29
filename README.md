@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
 
 # 👋 Hi, I'm Somya Sahu
 
@@ -6,79 +6,143 @@
 
 Building AI-powered products that solve real-world challenges in **Healthcare, Accessibility, Research Intelligence, Recruitment Automation, and SaaS Platforms.**
 
-🌐 **Portfolio:** https://portfoolio-fawn.vercel.app
-💼 **LinkedIn:** https://linkedin.com/in/somya-sahu-5b5a2832b
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Portfolio
+## 🌟 Who Am I?
 
-| Project                          | Domain           | Repository                                         |
-| -------------------------------- | ---------------- | -------------------------------------------------- |
-| 🧠 Pharma AI                     | Multi-Agent AI   | [Open](https://github.com/somyasahu21/pharma-AI)   |
-| 👁️ AI Vision Assistant          | Accessibility AI | Private Repository                                 |
-| 🎯 AI Recruitment System         | HRTech AI        | [Open](https://github.com/somyasahu21/AI-requiter) |
-| 💧 Waterborne Disease Prediction | Healthcare AI    | [Open](https://github.com/somyasahu21/waterborns)  |
-| 🤖 SupportAI                     | AI SaaS          | [Open](https://github.com/somyasahu21/support-ai)  |
-| 🎪 Evently                       | Event Management | [Open](https://github.com/somyasahu21/evently)     |
-| 🏥 MadMate                       | Smart Healthcare | Private Repository                                 |
-| 📝 ExamNote AI                   | AI SaaS          | [Open](https://github.com/somyasahu21/AI-notes)    |
-| 🤝 Customer Support OpenEnv      | Agentic AI / RL  | Public Repository                                  |
+I am a developer passionate about building intelligent software systems that combine:
 
----
-
-# 🌟 About Me
-
-I am passionate about building intelligent software systems that combine Artificial Intelligence with scalable Full Stack architectures.
-
-My work focuses on:
-
-* 🤖 Agentic AI & Multi-Agent Systems
+* 🤖 Agentic AI & Multi-Agent Architectures
 * 🧠 Large Language Models (LLMs)
 * 🔍 Retrieval-Augmented Generation (RAG)
 * 👁️ Computer Vision & Face Recognition
 * 🏥 Healthcare Intelligence
-* ♿ Accessibility Solutions
-* 🌐 SaaS Platforms
+* ♿ Assistive Technologies
+* 🌐 Scalable SaaS Platforms
 * 📊 Data Analytics & Automation
 
-I enjoy transforming complex real-world challenges into impactful AI-powered solutions.
+My goal is to create technology that delivers measurable impact, improves lives, and solves meaningful real-world problems.
 
 ---
 
-# 🏆 Highlighted Projects
+# 🚀 Featured Projects
 
-### 🧠 Pharma AI
+## 🧠 Pharma AI
 
-Multi-Agent pharmaceutical research platform that automates literature analysis, fact verification, strategic recommendations, and scientific report generation using RAG and specialized AI agents.
+**Multi-Agent Pharmaceutical Research & Intelligence Platform**
 
-### 👁️ AI Vision Assistant for Visually Impaired
+A research automation system that orchestrates specialized AI agents to perform pharmaceutical analysis, literature review, evidence aggregation, fact verification, and strategic report generation.
 
-Real-time assistive ecosystem that detects objects, estimates distance, recognizes faces, identifies traffic signals, and provides voice-based guidance through ESP32-CAM integration.
+**Impact**
 
-### 🎯 AI Recruitment System
+* Reduced research time from days to minutes
+* Automated scientific report generation
+* Evidence-driven pharmaceutical insights
 
-End-to-end recruitment intelligence platform featuring resume analysis, AI-generated assessments, AI video interviews, speech analysis, facial analysis, and automated candidate ranking.
-
-### 💧 Waterborne Disease Prediction System
-
-Healthcare intelligence platform that predicts disease outbreaks using water quality data, environmental conditions, weather intelligence, and machine learning models.
-
-### 🤖 SupportAI
-
-AI-powered customer support SaaS that enables businesses to deploy custom chatbots trained on their own knowledge base through a simple embed script.
-
-### 🏥 MadMate
-
-Comprehensive AI healthcare ecosystem integrating OCR, medication tracking, caregiver collaboration, voice assistance, health analytics, and appointment management.
+**Tech Stack**
+Python • FastAPI • LangChain • RAG • ChromaDB • HuggingFace • Groq • Multi-Agent Systems
 
 ---
 
-# 💻 Technical Expertise
+## 👁️ AI Vision Assistant for Visually Impaired
 
-### Frontend
+An AI-powered assistive ecosystem that helps visually impaired individuals navigate and understand their surroundings through real-time voice guidance.
+
+### Capabilities
+
+* Object Detection
+* Distance Estimation
+* Face Recognition
+* Traffic Signal Detection
+* Voice Navigation
+* ESP32-CAM Integration
+
+**Impact**
+Improves independence, confidence, and safety for visually impaired users.
+
+**Tech Stack**
+Python • OpenCV • Deep Learning • Computer Vision • ESP32-CAM • React • Node.js
+
+---
+
+## 🎯 AI Recruitment & Interview Intelligence Platform
+
+A complete AI-driven hiring ecosystem that evaluates candidates using:
+
+* Resume Analysis
+* Skill Assessment
+* AI Video Interviews
+* Speech Analysis
+* Facial Expression Analysis
+* Automated Candidate Ranking
+
+**Impact**
+Reduces recruiter workload and enables unbiased candidate evaluation at scale.
+
+**Tech Stack**
+React • Node.js • FastAPI • Whisper • Gemini AI • WebRTC • MongoDB
+
+---
+
+## 💧 Waterborne Disease Prediction System
+
+An intelligent healthcare platform that predicts disease outbreaks by combining:
+
+* Water Quality Analysis
+* Environmental Data
+* Weather Intelligence
+* Population Risk Assessment
+* Symptom-Based Prediction Models
+
+**Impact**
+Supports early disease prevention and public health safety.
+
+**Tech Stack**
+Python • Machine Learning • FastAPI • React • MongoDB
+
+---
+
+## 🤖 SupportAI
+
+An AI-powered SaaS platform enabling businesses to deploy custom customer support assistants trained on their own knowledge base.
+
+### Features
+
+* Knowledge-Based Responses
+* Multi-Tenant Architecture
+* One-Line Website Integration
+* Business Dashboard
+* Real-Time AI Support
+
+**Tech Stack**
+Next.js • TypeScript • MongoDB • Gemini AI • Scalekit
+
+---
+
+## 🏥 MadMate
+
+A comprehensive AI-powered healthcare ecosystem integrating:
+
+* OCR Medical Reports
+* Voice Assistance
+* Smart Medication Tracking
+* Caregiver Collaboration
+* Health Analytics
+* Appointment Management
+
+**Impact**
+Improves healthcare accessibility and patient engagement.
+
+**Tech Stack**
+React • Node.js • MongoDB • Firebase • Stripe • Twilio
+
+---
+
+# 🛠 Technical Expertise
+
+## Frontend Development
 
 ```text
 React.js
@@ -90,34 +154,34 @@ Tailwind CSS
 Framer Motion
 ```
 
-### Backend
+## Backend Development
 
 ```text
 Node.js
 Express.js
 FastAPI
 REST APIs
-JWT Authentication
 WebSockets
+JWT Authentication
 Microservices
 ```
 
-### Artificial Intelligence
+## Artificial Intelligence
 
 ```text
 Large Language Models (LLMs)
 Agentic AI
 Multi-Agent Systems
-Retrieval-Augmented Generation (RAG)
+RAG Pipelines
 LangChain
 Computer Vision
-Natural Language Processing
+NLP
 OCR
 Deep Learning
 Hugging Face
 ```
 
-### Databases
+## Databases
 
 ```text
 MongoDB
@@ -126,28 +190,25 @@ ChromaDB
 Vector Databases
 ```
 
-### Cloud & DevOps
+## Cloud & Deployment
 
 ```text
 Vercel
 Render
 MongoDB Atlas
-Docker
 GitHub Actions
-Git
+Docker
 ```
 
 ---
 
-# 📈 Domains
+# 📈 Domains I Build For
 
 🏥 Healthcare Technology
 
 🤖 Artificial Intelligence
 
-👁️ Computer Vision
-
-♿ Accessibility Solutions
+👁️ Accessibility & Assistive Systems
 
 📚 Education Technology
 
@@ -165,27 +226,26 @@ Git
 
 * Advanced Multi-Agent AI Systems
 * Production-Ready RAG Architectures
-* Healthcare Intelligence Platforms
-* AI-Powered SaaS Products
+* AI-Powered Healthcare Platforms
 * Computer Vision Applications
+* Scalable SaaS Infrastructure
 * Intelligent Automation Systems
-* Scalable Full Stack Architectures
 
 ---
 
 # 🌐 Connect With Me
 
-### 💻 GitHub
-
-https://github.com/somyasahu21
-
-### 🌍 Portfolio
+### Portfolio
 
 https://portfoolio-fawn.vercel.app
 
-### 💼 LinkedIn
+### LinkedIn
 
 https://linkedin.com/in/somya-sahu-5b5a2832b
+
+### GitHub
+
+https://github.com/somyasahu21
 
 ---
 
@@ -193,18 +253,19 @@ https://linkedin.com/in/somya-sahu-5b5a2832b
 
 I aim to build intelligent systems that bridge the gap between cutting-edge AI research and practical real-world applications.
 
-From healthcare diagnostics to accessibility tools, from recruitment automation to research intelligence, my goal is to create technology that generates measurable impact and improves lives.
+From healthcare diagnostics to accessibility tools, from recruitment automation to research intelligence, I focus on creating products that generate measurable impact.
 
 ---
 
-# ⭐ Philosophy
+### ⭐ Philosophy
 
-> Technology becomes meaningful when it solves real problems and improves people's lives.
+> “The best technology is not the most complex technology.
+> The best technology is the one that meaningfully improves human lives.”
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### 🚀 Building the Future with Artificial Intelligence, Full Stack Engineering & Human-Centered Innovation
 
-</div>
+</p>
