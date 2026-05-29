@@ -1,22 +1,45 @@
+<div align="center">
+
 # 👋 Hi, I'm Somya Sahu
 
-### 🚀 AI Engineer | Full Stack Developer | Intelligent Systems Builder
+### 🚀 AI Engineer • Full Stack Developer • Intelligent Systems Builder
 
-Building AI-powered products that solve real-world problems in Healthcare, Accessibility, Research Automation, Recruitment, and SaaS.
+Building AI-powered products that solve real-world challenges in **Healthcare, Accessibility, Research Intelligence, Recruitment Automation, and SaaS Platforms.**
+
+🌐 **Portfolio:** https://portfoolio-fawn.vercel.app
+💼 **LinkedIn:** https://linkedin.com/in/somya-sahu-5b5a2832b
+
+</div>
 
 ---
 
-## 🌟 About Me
+# 🚀 Featured Portfolio
 
-I am a passionate developer focused on designing and building intelligent software systems that combine Artificial Intelligence with scalable Full Stack architectures.
+| Project                          | Domain           | Repository                                         |
+| -------------------------------- | ---------------- | -------------------------------------------------- |
+| 🧠 Pharma AI                     | Multi-Agent AI   | [Open](https://github.com/somyasahu21/pharma-AI)   |
+| 👁️ AI Vision Assistant          | Accessibility AI | Private Repository                                 |
+| 🎯 AI Recruitment System         | HRTech AI        | [Open](https://github.com/somyasahu21/AI-requiter) |
+| 💧 Waterborne Disease Prediction | Healthcare AI    | [Open](https://github.com/somyasahu21/waterborns)  |
+| 🤖 SupportAI                     | AI SaaS          | [Open](https://github.com/somyasahu21/support-ai)  |
+| 🎪 Evently                       | Event Management | [Open](https://github.com/somyasahu21/evently)     |
+| 🏥 MadMate                       | Smart Healthcare | Private Repository                                 |
+| 📝 ExamNote AI                   | AI SaaS          | [Open](https://github.com/somyasahu21/AI-notes)    |
+| 🤝 Customer Support OpenEnv      | Agentic AI / RL  | Public Repository                                  |
 
-My work spans across:
+---
+
+# 🌟 About Me
+
+I am passionate about building intelligent software systems that combine Artificial Intelligence with scalable Full Stack architectures.
+
+My work focuses on:
 
 * 🤖 Agentic AI & Multi-Agent Systems
 * 🧠 Large Language Models (LLMs)
 * 🔍 Retrieval-Augmented Generation (RAG)
 * 👁️ Computer Vision & Face Recognition
-* 🏥 Healthcare Technology
+* 🏥 Healthcare Intelligence
 * ♿ Accessibility Solutions
 * 🌐 SaaS Platforms
 * 📊 Data Analytics & Automation
@@ -25,87 +48,106 @@ I enjoy transforming complex real-world challenges into impactful AI-powered sol
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Highlighted Projects
 
 ### 🧠 Pharma AI
 
-Multi-Agent Pharmaceutical Research & Report Automation System powered by RAG, LangChain, Groq LLMs, and intelligent agent orchestration.
-
-**Tech:** Python • FastAPI • LangChain • ChromaDB • HuggingFace • Groq
-
----
+Multi-Agent pharmaceutical research platform that automates literature analysis, fact verification, strategic recommendations, and scientific report generation using RAG and specialized AI agents.
 
 ### 👁️ AI Vision Assistant for Visually Impaired
 
-Real-time assistive AI system that detects objects, recognizes faces, estimates distance, identifies traffic signals, and provides voice-based guidance using ESP32-CAM.
-
-**Tech:** Python • OpenCV • Deep Learning • ESP32-CAM • Computer Vision
-
----
+Real-time assistive ecosystem that detects objects, estimates distance, recognizes faces, identifies traffic signals, and provides voice-based guidance through ESP32-CAM integration.
 
 ### 🎯 AI Recruitment System
 
-AI-powered recruitment platform featuring resume analysis, MCQ assessment, AI video interviews, speech analysis, facial analysis, and automated candidate evaluation.
-
-**Tech:** React • Node.js • FastAPI • Whisper • Gemini AI • WebRTC
-
----
+End-to-end recruitment intelligence platform featuring resume analysis, AI-generated assessments, AI video interviews, speech analysis, facial analysis, and automated candidate ranking.
 
 ### 💧 Waterborne Disease Prediction System
 
-Intelligent healthcare platform that predicts disease outbreaks using environmental, weather, water quality, and symptom-based machine learning models.
-
-**Tech:** Python • Machine Learning • FastAPI • React • MongoDB
-
----
+Healthcare intelligence platform that predicts disease outbreaks using water quality data, environmental conditions, weather intelligence, and machine learning models.
 
 ### 🤖 SupportAI
 
-AI-powered customer support SaaS platform enabling businesses to deploy custom chatbots trained on their own knowledge base.
-
-**Tech:** Next.js • TypeScript • MongoDB • Gemini AI • Scalekit
-
----
+AI-powered customer support SaaS that enables businesses to deploy custom chatbots trained on their own knowledge base through a simple embed script.
 
 ### 🏥 MadMate
 
-Comprehensive AI healthcare ecosystem with OCR, voice assistance, medication tracking, caregiver collaboration, appointment management, and health analytics.
-
-**Tech:** React • Node.js • MongoDB • Firebase • Stripe • Twilio
+Comprehensive AI healthcare ecosystem integrating OCR, medication tracking, caregiver collaboration, voice assistance, health analytics, and appointment management.
 
 ---
 
-## 💻 Technical Skills
+# 💻 Technical Expertise
 
-### Frontend Development
+### Frontend
 
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Redux • Framer Motion
+```text
+React.js
+Next.js
+TypeScript
+JavaScript
+Redux Toolkit
+Tailwind CSS
+Framer Motion
+```
 
-### Backend Development
+### Backend
 
-Node.js • Express.js • FastAPI • REST APIs • Authentication • WebSockets
+```text
+Node.js
+Express.js
+FastAPI
+REST APIs
+JWT Authentication
+WebSockets
+Microservices
+```
 
 ### Artificial Intelligence
 
-LLMs • Agentic AI • RAG • LangChain • NLP • Computer Vision • OCR • Deep Learning • Hugging Face
+```text
+Large Language Models (LLMs)
+Agentic AI
+Multi-Agent Systems
+Retrieval-Augmented Generation (RAG)
+LangChain
+Computer Vision
+Natural Language Processing
+OCR
+Deep Learning
+Hugging Face
+```
 
 ### Databases
 
-MongoDB • Firebase • ChromaDB • Vector Databases
+```text
+MongoDB
+Firebase
+ChromaDB
+Vector Databases
+```
 
-### Cloud & Deployment
+### Cloud & DevOps
 
-Vercel • Render • MongoDB Atlas • Git • GitHub
+```text
+Vercel
+Render
+MongoDB Atlas
+Docker
+GitHub Actions
+Git
+```
 
 ---
 
-## 📈 Project Domains
+# 📈 Domains
 
-🏥 Healthcare AI
+🏥 Healthcare Technology
 
-🤖 Agentic AI
+🤖 Artificial Intelligence
 
 👁️ Computer Vision
+
+♿ Accessibility Solutions
 
 📚 Education Technology
 
@@ -113,41 +155,56 @@ Vercel • Render • MongoDB Atlas • Git • GitHub
 
 🌐 SaaS Platforms
 
-♿ Accessibility Solutions
-
 📊 Intelligent Automation
 
----
-
-## 🌐 Connect With Me
-
-💻 GitHub
-https://github.com/somyasahu21
-
-🌍 Portfolio
-https://portfoolio-fawn.vercel.app
-
-💼 LinkedIn
-https://linkedin.com/in/somya-sahu-5b5a2832b
+🔬 Research Intelligence
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 * Advanced Multi-Agent AI Systems
-* Production-Grade RAG Pipelines
+* Production-Ready RAG Architectures
 * Healthcare Intelligence Platforms
-* AI-Powered SaaS Applications
-* Computer Vision Solutions
+* AI-Powered SaaS Products
+* Computer Vision Applications
+* Intelligent Automation Systems
 * Scalable Full Stack Architectures
 
 ---
 
-### ⭐ Philosophy
+# 🌐 Connect With Me
+
+### 💻 GitHub
+
+https://github.com/somyasahu21
+
+### 🌍 Portfolio
+
+https://portfoolio-fawn.vercel.app
+
+### 💼 LinkedIn
+
+https://linkedin.com/in/somya-sahu-5b5a2832b
+
+---
+
+# 📊 Career Vision
+
+I aim to build intelligent systems that bridge the gap between cutting-edge AI research and practical real-world applications.
+
+From healthcare diagnostics to accessibility tools, from recruitment automation to research intelligence, my goal is to create technology that generates measurable impact and improves lives.
+
+---
+
+# ⭐ Philosophy
 
 > Technology becomes meaningful when it solves real problems and improves people's lives.
 
 ---
 
-🚀 Building the next generation of intelligent systems through Artificial Intelligence, Full Stack Engineering, and Human-Centered Innovation.
+<div align="center">
 
+### 🚀 Building the Future with Artificial Intelligence, Full Stack Engineering & Human-Centered Innovation
+
+</div>
